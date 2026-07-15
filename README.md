@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Currently-Research%20Engineer%20Intern%20%40%20Astek-7C5CFF?style=flat-square"/>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-4B5563?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gabin-fulcrand-373340221/"><img src="https://img.shields.io/badge/LinkedIn-4B5563?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:gabinfulcrand@gmail.com"><img src="https://img.shields.io/badge/Email-4B5563?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -103,8 +103,8 @@ Maps the Bitcoin network to optimize transactions, with an interface to visualiz
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&hide_title=true&icon_color=7C5CFF&title_color=4B5563&text_color=4B5563" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&hide_title=true&title_color=4B5563&text_color=4B5563" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fufu75&show_icons=true&hide_border=true&hide_title=true&icon_color=7C5CFF&title_color=4B5563&text_color=4B5563" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fufu75E&layout=compact&hide_border=true&hide_title=true&title_color=4B5563&text_color=4B5563" height="150"/>
 </p>
 
 ---
