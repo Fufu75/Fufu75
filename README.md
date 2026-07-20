@@ -100,13 +100,4 @@ Maps the Bitcoin network to optimize transactions, with an interface to visualiz
 
 ---
 
-### Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fufu75&show_icons=true&hide_border=true&hide_title=true&icon_color=7C5CFF&title_color=4B5563&text_color=4B5563" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fufu75&layout=compact&hide_border=true&hide_title=true&title_color=4B5563&text_color=4B5563" height="150"/>
-</p>
-
----
-
 <p align="center">French (native) · English (C1, TOEIC 930/990)</p>
